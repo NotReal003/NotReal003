@@ -15,4 +15,4 @@ Timezone: GMT +5:30
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
 
 # Socials
-https://notreal003.xyz (Very Outdated)
+https://notreal003.xyz
