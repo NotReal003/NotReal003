@@ -3,7 +3,7 @@ Hello, I'm **NotReal003**, formerly known as *NotNT77*. I'm a full-stack develop
 
 Timezone: GMT +5:30
 
-![View](https://komarev.com/ghpvc/?username=NotReal003&abbreviated=true&color=blue&style=flat-square)
+![View](https://komarev.com/ghpvc/?username=NotReal003&color=blue&style=flat-square)
 
 ### Languages That I Use (Used in past)
 
